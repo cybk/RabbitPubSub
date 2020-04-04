@@ -3,3 +3,7 @@
 ################################################################################
 
 /EmigLog/bin/Debug/netcoreapp3.1
+/EmigLog/obj
+/PubSub/.vs/PubSub/v16
+/ReceiveLogs/bin/Debug/netcoreapp3.1
+/ReceiveLogs/obj
